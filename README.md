@@ -1,7 +1,14 @@
-## Hi there 👋
+## Hi I'm Argin
 
-<!--
-**argin18/argin18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently Pursuing  BCA in TU.
+- 🔭 I’m currently working as a web developer.
+- 🌱 I’m currently learning React.
+- 👯 I’m looking to collaborate to U .
+- 📫 How to reach me: E-mail me: arginbhujel@gmail.com
+- 😄 Pronouns: Argin.
+- ⚡ Fun fact: I just want to vibe.
+
+<!-- **argin18/argin18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
