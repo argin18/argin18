@@ -1,7 +1,7 @@
 ## Hi I'm Argin
 
 # 💫 About Me:
-I’m currently Pursuing BCA in TU.<br>🔭 I’m currently working as a web developer.<br>🌱 I’m currently learning React.<br>👯 I’m looking to collaborate to U .<br>😄 Pronouns: Argin.<br>⚡ Fun fact: I just want to vibe.
+I’m currently Pursuing BCA in TU.<br>🔭 I’m currently working as a web developer.<br>🌱 I’m currently learning React.<br>👯 I’m looking to collaborate to you .<br>😄 Pronouns: Argin.<br>⚡ Fun fact: I just want to vibe.
 
 
 ## 🌐 Socials:
